@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Arya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam19arya&label=Profile%20views&color=0e75b6&style=flat" alt="satyam19arya" /> </p>
 
-- 🌱 I’m currently learning **C++,Frontend**
+- 🌱 I’m currently learning **C++/Frontend**
 
 - 📫 **satyam19arya@gmail.com**
 
